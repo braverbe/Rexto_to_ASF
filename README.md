@@ -9,6 +9,7 @@ Create -> Choose template Python -> Create Repl.
 
 Drop all of repository files inside repl that you created, make sure that main file look's like this one.
 ![img.png](img.png)
+Don't forget to drop your files inside accs.txt
 If you want to switch name of new accounts or started number than change 4 or 5 string.
 
 # IMPORTANT!!!
