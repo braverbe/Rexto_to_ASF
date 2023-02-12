@@ -1,0 +1,12 @@
+{
+  "AcceptGifts": true,
+  "AutoSteamSaleEvent": true,
+  "Enabled": true,
+  "OnlineStatus": 7,
+  "RedeemingPreferences": 7,
+  "SteamLogin": "login",
+  "SteamPassword": "password",
+  "SteamUserPermissions": {
+    "YOU'R MAIN ACCOUNT ID": 3
+  }
+}
